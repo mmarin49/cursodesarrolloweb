@@ -10,14 +10,20 @@
 
     <body>
         <div class="contendor">
-            <header>
+            <header role="banner">
                 <div class="logo">
                     <img src="img/logo.png" alt="logo empresa">
                 </div>
-                <nav class="nanvegacion">
-                    menu aquí
+                <nav class="nanvegacion" role="navigation">
+                    <ul>
+                        <li><a href="nosotros.html">Sobre nosotros</a></li>
+                        <li><a href="#">Cursos</a></li>
+                        <li><a href="http://google.com">Ir a Google</a></li>
+                        <li><a href="#">Ir a noticias</a></li>
+                    </ul>
+                    <a href="naipes.html">Ir a naipes</a>
                 </nav>
-                <main class="contenido-principal">
+                <main class="contenido-principal" role="main">
                     <section>
                         <h2>Nuestros cursos</h2>
                         <div>
@@ -33,8 +39,43 @@
                             <img src="img/js.jpg" height="200">
                         </div>
                     </section>
-                </main>
+                    <section>
+                        <h2>Últimas notícias</h2>
+                        <article role="article">
+                            <h3>Aprender a programar en el siglo 21 es muy importante</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </article>
+                        <article role="article">
+                            <h3>Aprender a programar en el siglo 21 es muy importante</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </article>
+                    </section>
+                </main> <!--contenido principal-->
+                <aside role="complementary">
+                    <h2>Próximos cursos</h2>
+                    <div>
+                        <h3>PHP</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+                    </div>
+                    <div>
+                        <h3>MySQL</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+                    </div>
+                </aside>
             </header>
-        </div>
+        </div> <!--.contenidor-->
+        <footer role="contentinfo">
+            <div class="nosotros">
+                <h3>Sobre nuestra escuela</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+
+            <div class="menu">
+                <nav class="nanvegacion" role="navigation">
+                    menu aquí
+                </nav>
+                <p>Cursos de diseño web &mdash;. Todos los derechos reservados &copy;</p>
+            </div>
+        </footer>
     </body>
 </html>
