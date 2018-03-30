@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f64b1cf2-29b0-4bd6-a0f3-5cb1952b9b51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/multimedia.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/formularios.html" afterPath="$PROJECT_DIR$/formularios.html" />
+      <change beforePath="$PROJECT_DIR$/multimedia.html" afterPath="$PROJECT_DIR$/multimedia.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,8 +49,8 @@
       <file leaf-file-name="multimedia.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multimedia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            <state relative-caret-position="168">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -191,7 +189,7 @@
       <workItem from="1522244159336" duration="6291000" />
       <workItem from="1522331730780" duration="2802000" />
       <workItem from="1522402311804" duration="729000" />
-      <workItem from="1522409329336" duration="3022000" />
+      <workItem from="1522409329336" duration="5342000" />
     </task>
     <task id="LOCAL-00001" summary="fins video 29">
       <created>1520103992513</created>
@@ -246,7 +244,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37921000" />
+    <option name="totallyTimeSpent" value="40241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -624,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multimedia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="168">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
