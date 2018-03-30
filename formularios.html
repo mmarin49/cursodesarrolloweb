@@ -12,17 +12,36 @@
         <fieldset>
             <legend>Tus datos</legend>
             <label for="nombre">Nombre: </label>
-            <input type="text" name="nombre" id="nombre" placeholder="Tu nombre" autocomplete="on">
+            <input type="text" name="nombre" id="nombre" placeholder="Tu nombre" autocomplete="on" required>
 
             <br><br>
             <label for="apellido">Apellido: </label>
-            <input type="text" name="apellido" id="apellido" placeholder="Tu apellido" autocomplete="on">
+            <input type="text" name="apellido" id="apellido" placeholder="Tu apellido" autocomplete="on" required>
 
             <br><br>
             <label for="sexo">Sexo: </label><br>
             <input type="radio" id="sexo" name="sexo" value="hombre">Hombre <br>
             <input type="radio" id="sexo" name="sexo" value="mujer" autofocus>Mujer <br>
             <input type="radio" id="sexo" name="sexo" value="otro">Otro <br>
+            <br><br>
+            <label>Fecha de nacimiento:</label>
+            <input type="date" name="fecha"> <br>
+            <input type="datetime-local" name="fecha1">
+
+            <br><br>
+            <label>Correo electrónico: </label>
+            <input type="email" name="email" placeholder="correo@dominio.com" required>
+
+            <br><br>
+            <label>Tu sitio web: </label>
+            <input type="url" name="url" placeholder="http://midominio.com">
+
+            <br><br>
+            <label>Cuánto sabes de html? </label>
+            <input type="range" name="puntuación" min="0" max="10">
+            <br><br>
+            <label>Persona que vendrán contigo </label>
+            <input type="number" name="cantidad" min="0" max="5">
 
         </fieldset>
         <fieldset>
@@ -55,6 +74,11 @@
             <input type="checkbox" value="javascript">JavaScript<br>
             <input type="checkbox" value="jquery">jQuery<br>
 
+            <BR>><BR>
+            <label>Fecha que deseas iniciar el curso: </label>
+            <input type="month" name="fecha"><br>
+            <input type="time" name="fecha"><br>
+            <input type="week" name="fecha"><br>
         </fieldset>
         <br><br>
         <fieldset>
@@ -62,6 +86,17 @@
             <label>Las primera 10 personas recibirán una camiseta gratis. Elige el color</label> <br>
             <input type="color" name="color">
         </fieldset>
+
+        <br>><br>
+        <fieldset>
+            <legend>Usuario y Password</legend>
+            <label>Usuario:</label><br>
+            <input type="text" name="usuario" placeholder="Usuario" required><br>
+            <label>Password:</label><br>
+            <input type="password" name="password" placeholder="Password" required><br>
+        </fieldset>
+
+
         <br>><br>
         <button type="reset">Borrar</button>
         <button type="submit" disabled>Enviar</button>
