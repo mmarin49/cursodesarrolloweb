@@ -1,11 +1,127 @@
+/** selectores de id's
+
+ */
+#titulo{
+    color: red;
+}
+
+#logo{
+  /*margin-top: 100px;*/
+}
+
+/* Selectores de clases
+
+ */
+
+.rojo{
+    color: red;
+}
+.rojo{
+    color: blue;
+}
+.logo{
+    margin-top: 200px;
+}
+
+/* Selectores de clases y ID's
+
+ */
+#titulo.titulo{
+    font-size: 60px;
+}
+
+/* siempre ooje el más especifico por eso no hace caso si solo ponemos la classe
+*/
+.titulo{
+    font-size: 30px;
+}
+
+/* Selectores de 2 clases
+
+ */
+.azul.tituloCurso{
+    color:blue;
+}
+/* siempre ooje el más especifico por eso no hace caso si solo ponemos 1 clase
+*/
+.azul{
+    color: red;
+}
+.tituloCurso{
+    color: red; 
+}
+/* Selectores amb elements html
+*/
+
+p {
+    color: brown;
+}
+h2 {
+    color: orange;
+}
+h3 {
+   color: green;
+}
+img {
+    width: 300px;
+}
+/* Selectores amb elements html y id
+*/
+img#logo{
+    width: 600px;
+}
+h2#titulo{
+    color: orange;
+}
+/* Selectores amb elements html y classe
+*/
+section.seccion{
+    background: gray;
+}
+div.noticia{
+    background: white;
+}
+
+/* Selector universal. Si añades !important no cogerá los selectores más detallado y cogerà este
+*/
 /*
-h2{
-    color: white;
-    text-transform: uppercase;
-    background-color: red;
-    padding:20px;
+* {
+    color: black!important;
+    font-size:20px;
 }
 */
-p{
+/* ara agafem un selector universal per tot el que hi ha dintre d'un id
+ */
+
+#listado-cursos *{
+    font-size: 30px;
+}
+
+.noticia *{
     font-size: 20px;
+}
+/* grupo de selectores
+*/
+
+h2,h3,p,a{
+    text-transform: uppercase;
+}
+
+h2,h3{
+    text-align: center;
+}
+/* selector descendiente
+*/
+nav#navegacion{
+    background-color: orange;
+}
+nav#navegacion ul{
+    list-style: none;
+}
+
+nav#navegacion ul li{
+    display: inline;
+}
+nav#navegacion ul li a{
+    color: white;
 }
