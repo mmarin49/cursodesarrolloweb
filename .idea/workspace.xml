@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f64b1cf2-29b0-4bd6-a0f3-5cb1952b9b51" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/contenedores.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/contenedores.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colores.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/colores.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contenedores.html" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contenedores.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contenedores.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,20 +19,24 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/box-sizing/index.html">
-              <provider selected="true" editor-type-id="text-editor" />
+          <file leaf-file-name="colores.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/colores.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+                </state>
+              </provider>
             </entry>
           </file>
         </leaf>
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="estilos.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/box-sizing/css/estilos.css">
+          <file leaf-file-name="colores.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/colores.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="578">
-                  <caret line="34" column="16" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="16" />
+                <state relative-caret-position="187">
+                  <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -68,9 +74,13 @@
         <option value="$PROJECT_DIR$/css/estilos.css" />
         <option value="$PROJECT_DIR$/textos.html" />
         <option value="$PROJECT_DIR$/css/textos.css" />
+        <option value="$PROJECT_DIR$/box-sizing/css/estilos.css" />
+        <option value="$PROJECT_DIR$/displays/index.html" />
+        <option value="$PROJECT_DIR$/displays/CSS/estilos.css" />
         <option value="$PROJECT_DIR$/contenedores.html" />
         <option value="$PROJECT_DIR$/css/contenedores.css" />
-        <option value="$PROJECT_DIR$/box-sizing/css/estilos.css" />
+        <option value="$PROJECT_DIR$/colores.html" />
+        <option value="$PROJECT_DIR$/css/colores.css" />
       </list>
     </option>
   </component>
@@ -91,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,18 +112,18 @@
             <path>
               <item name="cursodesarrolloweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursodesarrolloweb" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="box-sizing" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cursodesarrolloweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cursodesarrolloweb" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="box-sizing" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cursodesarrolloweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursodesarrolloweb" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="displays" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cursodesarrolloweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursodesarrolloweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="displays" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="CSS" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cursodesarrolloweb" type="b2602c69:ProjectViewProjectNode" />
@@ -123,7 +134,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,7 +207,15 @@
       <workItem from="1523113150832" duration="839000" />
       <workItem from="1523126849080" duration="2991000" />
       <workItem from="1523172399470" duration="3254000" />
-      <workItem from="1523185756917" duration="4741000" />
+      <workItem from="1523185756917" duration="11442000" />
+      <workItem from="1523388479334" duration="3509000" />
+      <workItem from="1523422444817" duration="596000" />
+      <workItem from="1523462585359" duration="1243000" />
+      <workItem from="1523557447091" duration="595000" />
+      <workItem from="1523639705182" duration="1556000" />
+      <workItem from="1523771081783" duration="3932000" />
+      <workItem from="1523797197203" duration="1059000" />
+      <workItem from="1523993823370" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="fins video 29">
       <created>1520103992513</created>
@@ -252,7 +270,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76806000" />
+    <option name="totallyTimeSpent" value="96825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -294,34 +312,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="fins video 35imatges" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/naipes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2058">
-          <caret line="98" column="47" selection-start-line="98" selection-start-column="47" selection-end-line="98" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nosotros.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/naipes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -551,27 +541,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contenedores.html">
+    <entry file="file://$PROJECT_DIR$/displays/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="1258">
+          <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/displays/CSS/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/box-sizing/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/box-sizing/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/contenedores.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="255">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/box-sizing/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/box-sizing/css/estilos.css">
+    <entry file="file://$PROJECT_DIR$/contenedores.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="16" />
+        <state relative-caret-position="17">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding>
+            <element signature="e#6316#6323#0" expanded="true" />
+            <element signature="e#6354#6360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/colores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/colores.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
