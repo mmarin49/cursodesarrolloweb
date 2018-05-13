@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f64b1cf2-29b0-4bd6-a0f3-5cb1952b9b51" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/colores.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/colores.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +18,12 @@
           <file leaf-file-name="colores.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/colores.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-34">
+                <state relative-caret-position="17">
                   <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+                  <folding>
+                    <element signature="e#6311#6318#0" expanded="true" />
+                    <element signature="e#6349#6355#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -29,11 +32,29 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="colores.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="colores.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/colores.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="421">
+                <state relative-caret-position="558">
                   <caret line="77" column="132" selection-start-line="77" selection-start-column="132" selection-end-line="77" selection-end-column="132" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="contenedores.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/contenedores.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="contenedores.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/contenedores.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-51">
+                  <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
                 </state>
               </provider>
             </entry>
@@ -219,6 +240,8 @@
       <workItem from="1524803550330" duration="2922000" />
       <workItem from="1524908492601" duration="2350000" />
       <workItem from="1524928772398" duration="1982000" />
+      <workItem from="1525165214856" duration="597000" />
+      <workItem from="1526190300271" duration="293000" />
     </task>
     <task id="LOCAL-00001" summary="fins video 29">
       <created>1520103992513</created>
@@ -273,12 +296,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109342000" />
+    <option name="totallyTimeSpent" value="110232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19596355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19596355" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -287,7 +311,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -571,10 +595,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/contenedores.css">
+    <entry file="file://$PROJECT_DIR$/colores.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        <state relative-caret-position="17">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          <folding>
+            <element signature="e#6311#6318#0" expanded="true" />
+            <element signature="e#6349#6355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/colores.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="77" column="132" selection-start-line="77" selection-start-column="132" selection-end-line="77" selection-end-column="132" />
         </state>
       </provider>
     </entry>
@@ -585,17 +620,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/colores.html">
+    <entry file="file://$PROJECT_DIR$/css/contenedores.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/colores.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="77" column="132" selection-start-line="77" selection-start-column="132" selection-end-line="77" selection-end-column="132" />
+        <state relative-caret-position="-51">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
         </state>
       </provider>
     </entry>
